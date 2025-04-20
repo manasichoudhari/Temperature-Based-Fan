@@ -1,7 +1,9 @@
 # Temperature-Based-Fan
-A smart fan system that automatically adjusts its speed based on room temperature, ensuring comfort for disabled individuals without requiring manual control.
+A smart fan system that automatically adjusts its speed based on room temperature range, ensuring comfort for disabled individuals without requiring manual control.
 
 This project uses an Arduino and a temperature sensor to read the room temperature. Based on the readings, the fan speed is adjusted using a motor driver.
+
+![Project Setup](https://github.com/manasichoudhari/Temperature-Based-Fan/blob/main/Screenshot%202025-04-20%20152630.png)
 
 ## Benefits 
 - **Energy Efficient-** Reduces unnecessary power consumption, lowers bill.
