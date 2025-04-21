@@ -5,6 +5,8 @@ This project uses an Arduino and a temperature sensor to read the room temperatu
 
 ![Project Setup](https://github.com/manasichoudhari/Temperature-Based-Fan/blob/main/Temp_Range.png)
 
+![Project Setup](https://github.com/manasichoudhari/Temperature-Based-Fan/blob/main/Model_Lcd.png)
+
 [Watch the video](Temp_Based_Fan_Model.mp4)
 
 ## Benefits 
