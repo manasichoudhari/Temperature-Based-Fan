@@ -5,6 +5,8 @@ This project uses an Arduino and a temperature sensor to read the room temperatu
 
 ![Project Setup](https://github.com/manasichoudhari/Temperature-Based-Fan/blob/main/Screenshot%202025-04-20%20152630.png)
 
+[Watch the video](Temp_Based_Fan_Model.mp4)
+
 ## Benefits 
 - **Energy Efficient-** Reduces unnecessary power consumption, lowers bill.
 - **Increases Device Lifespan-** Prevents overheating-related damage.
